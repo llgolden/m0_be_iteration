@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? Somewhat confident, needs more practice
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? I had a productive struggle bordering on unproductive struggle when completing the Practice work in the Iteration instructions so by the time I got to the CFU portion I was able to easily complete the challenges.
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that? The concepts all make sense but like all learning, practice and repetition are key to fully understanding and appreciating the concepts
+- What questions do you still have? How will you get the answers you need? none but if questions come up I will google and/or ask my small group
